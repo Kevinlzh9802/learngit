@@ -32,9 +32,6 @@ Enjoy and have fun.
 10. 新开 issue 向大家问好，谈谈你对队式有什么看法和建议吧
 11. (*)阅读前几届队式repo的Contributing.MD，介绍了开发组使用git开发的工作流
 
----
-注意：
-1. 不要在网页上直接修改readme.MD :)
 
 ### 2. github(*为可做项)
 
@@ -46,7 +43,3 @@ Enjoy and have fun.
 - (*)在命令行中，用证书来替换用户名密码登陆github操作远程repo
 - (*)了解Travis-CI
 - (*)学习Github Flavored Markdown, 可以使用wiki功能进行试写和预览
-
-
-## 留言区
-吴昆：开发组意向：打杂组。欢迎大家加入队式开发组，求抱大腿。
